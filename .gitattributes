@@ -5,3 +5,4 @@
 *.ipynb	merge=jupyternotebook
 koh_e_pset4_figure.ipynb filter=lfs diff=lfs merge=lfs -text
 CpGPositions_FILTERED.csv filter=lfs diff=lfs merge=lfs -text
+CombinedData_data_cpg_alignment.csv filter=lfs diff=lfs merge=lfs -text
